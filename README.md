@@ -3,6 +3,8 @@ Se van añadiendo productos y a partir del décimo se muestra +9 en la notificac
 
 Esta es la apariencia que tiene:
 
+![Screenshot](screenshot.jpg)
+
 
 
 
