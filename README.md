@@ -1,3 +1,28 @@
+Módulo para funcionalidad de carrito de compra.
+Se van añadiendo productos y a partir del décimo se muestra +9 en la notificación del carrito
+
+Esta es la apariencia que tiene:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
